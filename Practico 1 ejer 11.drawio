@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" modified="2024-05-12T20:21:56.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="1SOZj6AHkezy0KHAmZVl" version="24.4.0" type="device">
+  <diagram name="Página-1" id="3txDNpP5utwDNySYqf5s">
+    <mxGraphModel dx="1290" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TPrEkKp2Tcn_oWYIC6Wa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TPrEkKp2Tcn_oWYIC6Wa-1" target="TPrEkKp2Tcn_oWYIC6Wa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TPrEkKp2Tcn_oWYIC6Wa-1" value="Algoritmo Practico 1 ejer 11" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="10" width="166" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TPrEkKp2Tcn_oWYIC6Wa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TPrEkKp2Tcn_oWYIC6Wa-2" target="TPrEkKp2Tcn_oWYIC6Wa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TPrEkKp2Tcn_oWYIC6Wa-2" value="entrada number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TPrEkKp2Tcn_oWYIC6Wa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TPrEkKp2Tcn_oWYIC6Wa-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPrEkKp2Tcn_oWYIC6Wa-8" value="V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TPrEkKp2Tcn_oWYIC6Wa-6">
+          <mxGeometry x="0.2095" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPrEkKp2Tcn_oWYIC6Wa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TPrEkKp2Tcn_oWYIC6Wa-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPrEkKp2Tcn_oWYIC6Wa-9" value="F" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TPrEkKp2Tcn_oWYIC6Wa-7">
+          <mxGeometry x="0.1348" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPrEkKp2Tcn_oWYIC6Wa-4" value="&lt;br&gt;&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt;number &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #3b3b3b;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #098658;&quot;&gt;11235813&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="176" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TPrEkKp2Tcn_oWYIC6Wa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TPrEkKp2Tcn_oWYIC6Wa-10" target="TPrEkKp2Tcn_oWYIC6Wa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TPrEkKp2Tcn_oWYIC6Wa-10" value="retornar&amp;nbsp;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&quot;Esto no es de Fibonacci&quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="310" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TPrEkKp2Tcn_oWYIC6Wa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TPrEkKp2Tcn_oWYIC6Wa-11" target="TPrEkKp2Tcn_oWYIC6Wa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TPrEkKp2Tcn_oWYIC6Wa-11" value="retornar&amp;nbsp;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&quot;Se encontro a Fibonacci&quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="310" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TPrEkKp2Tcn_oWYIC6Wa-14" value="FinAlgoritmo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" modified="2024-05-12T17:33:21.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zMbpoftYILJRMiOZyb4K" version="24.4.0" type="device">
+  <diagram name="Página-1" id="BouHLvfCbNDhuT04NZZs">
+    <mxGraphModel dx="2117" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zrs-ZNA60m42wVv7i768-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zrs-ZNA60m42wVv7i768-1" target="Zrs-ZNA60m42wVv7i768-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-1" value="Algoritmo Practico1 ejercicio 5" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="40" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zrs-ZNA60m42wVv7i768-2" target="Zrs-ZNA60m42wVv7i768-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-2" value="entrada caracter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zrs-ZNA60m42wVv7i768-4" target="Zrs-ZNA60m42wVv7i768-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-4" value="definir ASCII" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zrs-ZNA60m42wVv7i768-6" target="Zrs-ZNA60m42wVv7i768-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-6" value="ASCII = entero del caracter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="340" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zrs-ZNA60m42wVv7i768-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-12" value="V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zrs-ZNA60m42wVv7i768-10">
+          <mxGeometry x="0.0945" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zrs-ZNA60m42wVv7i768-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-13" value="F" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zrs-ZNA60m42wVv7i768-11">
+          <mxGeometry x="-0.1668" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-8" value="&lt;div style=&quot;color: rgb(59, 59, 59); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;ASCII &lt;span style=&quot;color: #000000;&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span style=&quot;color: #098658;&quot;&gt;65&lt;/span&gt; &lt;span style=&quot;color: #000000;&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; ASCII &lt;span style=&quot;color: #000000;&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span style=&quot;color: #098658;&quot;&gt;90&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="269" y="440" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zrs-ZNA60m42wVv7i768-14" target="Zrs-ZNA60m42wVv7i768-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="780" />
+              <mxPoint x="414" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-14" value="mostrar&amp;nbsp;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&quot;upper-case alphabet&quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="560" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zrs-ZNA60m42wVv7i768-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-18" value="V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zrs-ZNA60m42wVv7i768-16">
+          <mxGeometry x="-0.0697" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zrs-ZNA60m42wVv7i768-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-19" value="F" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zrs-ZNA60m42wVv7i768-17">
+          <mxGeometry x="-0.3917" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-15" value="&lt;div style=&quot;color: rgb(59, 59, 59); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;ASCII &lt;span style=&quot;color: #000000;&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span style=&quot;color: #098658;&quot;&gt;97&lt;/span&gt; &lt;span style=&quot;color: #000000;&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; ASCII &lt;span style=&quot;color: #000000;&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span style=&quot;color: #098658;&quot;&gt;122&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="570" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zrs-ZNA60m42wVv7i768-20" target="Zrs-ZNA60m42wVv7i768-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-20" value="mostrar&amp;nbsp;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&quot;lower-case alphabet&quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="267" y="690" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zrs-ZNA60m42wVv7i768-22" target="Zrs-ZNA60m42wVv7i768-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-22" value="mostrar&amp;nbsp;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&quot;not an alphabet&quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="690" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs-ZNA60m42wVv7i768-23" value="Fin algoritmo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="810" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

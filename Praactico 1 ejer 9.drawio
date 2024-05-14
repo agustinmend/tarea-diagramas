@@ -1,0 +1,116 @@
+<mxfile host="app.diagrams.net" modified="2024-05-12T20:07:16.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="HROvAGTADksWNasW3ywE" version="24.4.0" type="device">
+  <diagram name="Página-1" id="rH-xL-sdAq2HTLpE3RxE">
+    <mxGraphModel dx="1290" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Caku3Foy9BoJ-E2VN4JQ-1" target="Caku3Foy9BoJ-E2VN4JQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-1" value="Algoritmo Practico 1 ejer 9" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Caku3Foy9BoJ-E2VN4JQ-2" target="Caku3Foy9BoJ-E2VN4JQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-2" value="entrada s5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Caku3Foy9BoJ-E2VN4JQ-3" target="Caku3Foy9BoJ-E2VN4JQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-3" value="entrada s4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Caku3Foy9BoJ-E2VN4JQ-4" target="Caku3Foy9BoJ-E2VN4JQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-4" value="entrada s3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Caku3Foy9BoJ-E2VN4JQ-5" target="Caku3Foy9BoJ-E2VN4JQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-5" value="entrada s2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Caku3Foy9BoJ-E2VN4JQ-6" target="Caku3Foy9BoJ-E2VN4JQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-6" value="entrada s1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Caku3Foy9BoJ-E2VN4JQ-12" target="Caku3Foy9BoJ-E2VN4JQ-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="434" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-12" value="definir caracter5 = s5[0]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="920" width="132.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Caku3Foy9BoJ-E2VN4JQ-13" target="Caku3Foy9BoJ-E2VN4JQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-13" value="definir caracter4 = s4[0]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="830" width="132.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Caku3Foy9BoJ-E2VN4JQ-14" target="Caku3Foy9BoJ-E2VN4JQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-14" value="definir caracter3 = s3[[0]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="740" width="132.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Caku3Foy9BoJ-E2VN4JQ-15" target="Caku3Foy9BoJ-E2VN4JQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-15" value="definir caracter2&amp;nbsp; = s2[0]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="650" width="132.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Caku3Foy9BoJ-E2VN4JQ-16" target="Caku3Foy9BoJ-E2VN4JQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-16" value="definir caracter1 = s1[0]&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="570" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Caku3Foy9BoJ-E2VN4JQ-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-26" value="V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Caku3Foy9BoJ-E2VN4JQ-24">
+          <mxGeometry x="0.4198" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Caku3Foy9BoJ-E2VN4JQ-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-27" value="F" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Caku3Foy9BoJ-E2VN4JQ-25">
+          <mxGeometry x="0.3209" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-23" value="caracter1 = caracter5" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351.88" y="1020" width="166.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Caku3Foy9BoJ-E2VN4JQ-28" target="Caku3Foy9BoJ-E2VN4JQ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-28" value="retornar&amp;nbsp;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&quot;Hemos encontrado algo!&quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="518.13" y="1110" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Caku3Foy9BoJ-E2VN4JQ-29" target="Caku3Foy9BoJ-E2VN4JQ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-29" value="retornar&amp;nbsp;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&quot;Aun sin suerte&quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1110" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Caku3Foy9BoJ-E2VN4JQ-30" value="FinAlgoritmo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375.01" y="1220" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
